@@ -1,0 +1,20 @@
+# jemdoc: menu{MENU}{research.html}, showsource
+= Sundaresh Ram --- Research
+
+~~~
+{}{img_left}{wordle2.PNG}{alt text}{700}{400}{}
+
+~~~
+
+== Projects
+
+*Page Under Construction*
+
+~~~
+{}{img_left}{sign_1.gif}{alt text}{150}{100}{}
+
+~~~
+
+
+
+jemdoc.py -c my.conf index.jemdoc

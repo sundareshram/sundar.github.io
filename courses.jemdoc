@@ -1,0 +1,133 @@
+# jemdoc: menu{MENU}{courses.html}, showsource
+== Sundaresh Ram --- Course Work
+
+== Spring 2008
+
+- {{<font color="crimson">OPTI 638:</font>}} [javascript:toggleHide('c1') Advanced Medical Imaging]
+-- *Description:* Describes the physical principles behind the medical cross-sectional imaging modalities of magnetic resonance imaging (MRI), Computed Tomography (CT), ultrasound (US), positron emission tomography (PET), and single photon emission computed tomography (SPECT). \n
+-- *Instructors:* [http://www.optics.arizona.edu/research/faculty/profile/arthur-gmitro/ Arthur Gmitro], [http://www.optics.arizona.edu/research/faculty/profile/lars-r-furenlid/ Lar Furenlid], [http://www.optics.arizona.edu/research/faculty/profile/russell-s-witte/ Russel S. Witte], [http://bme.engr.arizona.edu/ted-trouard/ Ted Trouard] \n
+- {{<font color="crimson">ECE 574A:</font>}} [javascript:toggleHide('c2') Computer Aided Logic Design]
+-- *Description:* Tabular minimization of single and multiple output Boolean functions, NMOS and CMOS realizations, synthesis of sequential circuits, RTL description, laboratory exercises, and a term project. \n
+-- *Instructor:* [http://www2.engr.arizona.edu/~rlysecky/ Roman Lysecky] \n
+- {{<font color="crimson">ECE 528:</font>}}  [javascript:toggleHide('c3') Advanced Digital Signal Processing]
+-- *Description:* Random discrete signals, power spectrum estimation, FFT methods, Yule-Walker moethod, estimation of signals in noise, Wiener filters, adaptive filters, speech synthesis. \n
+-- *Instructor:* [http://www.optics.arizona.edu/research/faculty/profile/robin-n-strickland Robin Strickland] \n
+
+== Fall 2008
+
+- {{<font color="crimson">ECE 503:</font>}} [javascript:toggleHide('c4') Random Process for Engineering Applications]
+-- *Description:* Probability, random variables, stochastic processes, correlation functions and spectra with applications to communications, control, and computers. \n
+-- *Instructor:* [http://www2.engr.arizona.edu/~mwm/ Michael W. Marcellin] \n
+- {{<font color="crimson">ECE 533:</font>}} [javascript:toggleHide('c5') Digital Image Processing]
+-- *Description:* Image transforms, filter design, spectrum estimation, enhancement, restoration, and data compression. \n
+-- *Instructor:* [http://www2.engr.arizona.edu/~sail/rodriguez.htm Jeffrey J. Rodriguez] \n
+- {{<font color="crimson">ECE 510:</font>}} [javascript:toggleHide('c6') Data Compression]
+-- *Description:* Theory and practice of data compression with applications to image and video compression, Huffman coding, run coding, arithmetic coding, transform theory (KLT, DCT, Wavelets), quantization, rate control, scalable compression, and compression standards.\n
+-- *Instructor:* [http://www2.engr.arizona.edu/~mwm/ Michael W. Marcellin] \n
+
+== Spring 2009
+
+- {{<font color="crimson">ECE 518:</font>}} [javascript:toggleHide('c7') Stochastic Processes]
+-- *Description:* Gaussian and Markov processes, renewal theory, Wiener and Poisson processes, applications to engineering problems. Queues, Levy processes, Martingales, and introduction to stochastic integrals. \n
+-- *Instructor:* [http://math.arizona.edu/people/flaschka Hermann Flaschka] \n
+- {{<font color="crimson">CSc 645:</font>}} [javascript:toggleHide('c8') Machine Learning, Statistical Modeling and Inference]
+-- *Description:* Review of probability, overview of statistical models, principle components analysis, independent components analysis, graphical models, clustering, expectation maximization, hidden Markov models, Markov chain Monte Carlo methods, Metropolis-Hastings, particle filters, learning theory, support vector machines, kernel methods, and neural networks.\n
+-- *Instructor:* [http://kobus.ca/ Kobus Barnard] \n
+- {{<font color="crimson">ECE 538:</font>}} [javascript:toggleHide('c9') Radar Signal Processing]
+-- *Description:* Radar fundementals: radar range equations, waveforms, ambiguity functions. Signal processing: Pulse compression, synthetic aperture rader (SAR), inverse SAR, moving target indication (MTI), pulse-Doppler radar, space time adaptive processing (STAP).\n
+-- *Instructor:* [http://www.ou.edu/coe/ece/faculty_directory/dr_goodman.html Nathan Goodman] \n
+
+== Fall 2009
+
+- {{<font color="crimson">ECE 532:</font>}} [javascript:toggleHide('c10') Digital Image Analysis]
+-- *Description:* Digital image analysis, including feature extraction, boundary detection, segmentation, region analysis, mathematical morphology, stereoscopy, pattern recognition, and optical flow.\n
+-- *Instructor:* [http://www2.engr.arizona.edu/~sail/rodriguez.htm Jeffrey J. Rodriguez]\n
+- {{<font color="crimson">CSc 533:</font>}} [javascript:toggleHide('c11') Computer Graphics]
+-- *Description:* Theory and practice of computer graphics: basic graphics programming, 2D and 3D transformations, clipping, 2D and 3D viewing, hierarchical modeling, hidden surface removal, lighting and shading, color, ray-tracing, radiosity, curve and surface moeling, and animation. \n
+-- *Instructor:* [https://www2.cs.arizona.edu/~alon/ Alon Efrat]\n
+
+== Spring 2010
+
+- {{<font color="crimson">OPTI 637:</font>}} [javascript:toggleHide('c12') Principles of Image Science]
+-- *Description:* Mathematical description of imaging systems and noise, introduction to inverse problems, introduction to statistical decision theory, prior information, image reconstruction and radon transform, image quality, applications in medical imaging, other imaging systems. \n
+-- *Instructor:* [http://www.optics.arizona.edu/research/faculty/profile/eric-w-clarkson Eric Clarkson] \n
+
+== Fall 2010
+
+- {{<font color="crimson">OPTI 512L:</font>}} [javascript:toggleHide('c13') Mathematical Optics Lab]
+-- *Description:* Numerical methods and computer programming laboratory in support of probability, statsitics in optics, linear systems and Fourier Transforms.\n
+-- *Instructor:* [http://www.optics.arizona.edu/research/faculty/profile/matthew-kupinski Matthew Kupinski] \n
+- {{<font color="crimson">OPTI 636:</font>}} [javascript:toggleHide('c14') Noise in Imaging Systems]
+-- *Description:* Development of mathematical tools for describing stochastic processes in single optical detectors and complex imaging systems; understanding the effect of image processing and reconstruction algorithms on image noise; development of a quantitative approach to assessing and optimizing image quality. \n
+-- *Instructor:* [http://www.optics.arizona.edu/research/faculty/profile/matthew-kupinski Matthew Kupinski] \n
+
+== Spring 2011
+
+- {{<font color="crimson">ECE 636:</font>}} [javascript:toggleHide('c15') Information Theory]
+-- *Description:* Definition ofa measure of information and study of its properties; introduction to channel capacity and error-free communications over noisy channels; rate distortion theory; error detecting and correcting codes. \n
+-- *Instructor:* [http://www2.engr.arizona.edu/~ryan/ William Ryan] \n
+- {{<font color="crimson">MATH 410:</font>}} [javascript:toggleHide('c16') Matrix Analysis]
+-- *Description:* The role of matrices in systems of euqations; vector spaces and linear transformations; determinants; eigenvectors and eigenvalues; and applications. \n
+-- *Instructor:* [http://math.arizona.edu/~bjb/ Bruce Bayly] \n
+- {{<font color="crimson">ECE 699:</font>}} [javascript:toggleHide('c17') Independent Study]
+-- *Description:* Multidimensional signal processing and restoraion; signal, image, and video recovery; applications of compressive sensing to image processing and reconstruction. \n
+-- *Instructor:* [http://www2.engr.arizona.edu/~sail/rodriguez.htm Jeffrey J. Rodriguez] \n
+
+== Fall 2011
+
+- {{<font color="crimson">ECE 501B:</font>}} [javascript:toggleHide('c18') Advanced Linear Systems Theory]
+-- *Description:* Mathematical fundementals for analysis of linear systems; Maps and operators in finite and infinite dimensional linear vector spaces, Metric spaces, and inner-product spaces; Introduction to representation theroy; Eigensystems; Spectral theorems and singular value decomposition; continuity, convergence, and separability; Strum-Louisville theory. \n
+-- *Instructor:* [http://www2.engr.arizona.edu/~gehm/ Michael Ghem] \n
+- {{<font color="crimson">MATH 523A:</font>}} [javascript:toggleHide('c19') Real Analysis]
+-- *Description:* Lebesque measure and integration, differentiation, Radin-Nikodym theorem, Lp spaces, applications.\n
+-- *Instructor:* [http://math.arizona.edu/~shankar/ Shankar Venkataramani] \n
+
+== Spring 2012
+
+- {{<font color="crimson">MATH 513:</font>}} [javascript:toggleHide('c20') Linear Algebra]
+-- *Description:* Vector spaces, linear transformations and matrices, determinants, eigenvalues and diagonalization, bilinear forms, orthogonal and unitary tranformations, Jordan canonical form. \n
+-- *Instructor:* [http://math.arizona.edu/~rsims/ Robert Sims] \n
+- {{<font color="crimson">MATH 567A:</font>}} [javascript:toggleHide('c21') Theoritical Statistics I]
+-- *Description:* Basic decision theory; Bayes' rules for estimation; admissibility and completeness; the minimax theorem; sufficiency; exponential families of distributions; complete sufficient statistics; invariant decision problems; location and scale parameters; theory of nonparametric statistics; hypothesis testing; Neyman-Pearson lemma; UMP and UMPU tests; two-sided tests; two-sample tests; confidence tests; multiple decision problems\n
+-- *Instructor:* [http://math.arizona.edu/~rabi/ Rabi Bhattacharya] \n
+
+== Fall 2012
+
+- {{<font color="crimson">ISTA 521:</font>}} [javascript:toggleHide('c22') Introduction to Machine Learning]
+-- *Description:* Linear regression, probabilistic and non-probabilistic classification, clustering, principle component analysis, latent variable models, ensemble methods, estimation methods, feature and model selection, evaluation and learning theory. \n
+-- *Instructor:* [http://w3.sista.arizona.edu/~clayton/ Clayton T. Morrison] \n
+- {{<font color="crimson">MATH 567B:</font>}} [javascript:toggleHide('c23') Theoritical Statistics II]
+-- *Description:* Large sample theory of estimation: modes of convergence, central limit theorems, consistency and asymptotic distribution of      estimators, asymptotic relative efficiencies of estimators, autoregressive time series, Cramer-Rao bounds and asymptotic efficiency of the MLE, 
+     asymptotic theory of Bayes estimators, semi-parametric linear regression, nonparametric regression and density estimation; Large sample theory of tests: likelihood ratio and Wald's tests in parametric models, the chisquare tests for multinomials, tests for goodness of fit, asymptotic 
+     relative efficiencies of tests, nonparametric one- and two-sample tests; Statistical computation: nonparametric bootstrap, Markov 
+     Chain Monte Carlo and Bayes theory, hierarchical models. \n
+-- *Instructor:* [http://math.arizona.edu/~rabi/ Rabi Bhattacharya] \n
+
+== Spring 2013
+
+- {{<font color="crimson">MATH 574M:</font>}} [javascript:toggleHide('c24') Statistical Pattern Recognition and Data Mining]
+-- *Description:* Basic statistical prniciples and theory for modern machine learning, high dimensional data analysis, parametric and non-parametric methods, sparse analysis, shrinkage methods, variable selection, model assesment, model averaging, kernel methods, and unsupervised learning. \n
+-- *Instructor:* [http://math.arizona.edu/~hzhang/ Hao Helen Zhang] \n
+
+== Fall 2013
+
+- {{<font color="crimson">OPTI 604:</font>}} [javascript:toggleHide('c25') Mathematical Methods for Optics]
+-- *Description:* Complex variables. Fourier theory and applications to imaging; Coherent and incoherent imaging; Other integral transforms; Special functions and orthogonal polynomials; Linear algebra; Integral equations; Green's functions. \n
+-- *Instructor:* [http://www.optics.arizona.edu/research/faculty/profile/eric-w-clarkson Eric Clarkson] \n
+- {{<font color="crimson">MATH 577:</font>}} [javascript:toggleHide('c26') Convex Analysis and Variational Problems]
+-- *Description:* Basic concepts of optimization: convex sets and functions, minimization of convex functions, variational inequalities, duality; Applications of optimization in imaging and data science: modeling of problems in image or data restoration and analysis; numerical algorithms such as Uzawa's method, augmented Lagrangian methods, projected gradient methods. \n
+-- *Instructor:* [http://bicmr.pku.edu.cn/~dongbin Bin Dong]\n
+
+== Spring 2014
+
+- {{<font color="crimson">ECE 639:</font>}} [javascript:toggleHide('c27') Detection and Estimation Theory]
+-- *Description:* Hypothesis testing; Detection theory: signal detection in deterministic, stochastic and random signals, matched filter, sequential 
+     detection, performance evaluation and chernoff bound; Estimation theory: Bayesian estimation, general minimum variance unbiased estimation, 
+     cramer-rao lower bound, least squares estimation, maximum likelihood estimation and kalman filtering. \n
+-- *Instructor:* [http://www2.engr.arizona.edu/~ozan/ Ozan Kouluoglu] \n
+
+== Fall 2014
+
+- {{<font color="crimson">OPTI 600C:</font>}} [javascript:toggleHide('c28') Computational Photography]
+-- *Description:*  Cameras and image formation, human visual perception, image Manipulation (warping, morphing, mosaicing, matting, compositing, blending, completion or inpaitning), texture synthesis, super-resolution, denoising. Image based lighting and rendering, high dynamic range imaging and tone mapping. Flash and no flash photography, coded aperture photography, single/multi view reconstruction, photo quality assessment, modeling and synthesis using internet data. \n
+-- *Instructor:* [http://www.optics.arizona.edu/research/faculty/profile/jim-schwiegerling Jim Schwiegerling] \n

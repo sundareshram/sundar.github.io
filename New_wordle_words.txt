@@ -1,0 +1,47 @@
+Signal & Image Processing: 150
+Video: 150
+Convex: 75
+Adaptive Imaging Systems: 70
+Sparsity: 80
+SPECT: 65
+Regularization: 75
+Segmentation: 75
+Registration: 60
+Volume Correlation: 50
+Super-Resolution: 80
+Inpainting: 75
+Denoising: 75
+Deblurring: 65
+Deconvolution: 60
+Detection & Estimation: 70
+Bio-Medical: 50
+Pattern Recognition: 60
+Machine Learning: 70
+Signal & Image Processing: 150
+Vision: 75
+Variational: 60
+Compression: 45
+Image Coding: 40
+Image Quality: 50
+Graph Theory: 65
+Minimization: 50
+Optimization: 55
+Convolutional Sparsity: 60
+Image Tracking: 65
+Morphology: 50
+Patch Processing: 55
+Features: 50
+Non-Local: 60
+Level-sets: 50
+Active Contours: 45
+Tomography: 50
+Microscopy: 50
+Pattern Recognition: 60
+Restoration: 60  
+Wavelets: 60
+Sparse Sensing: 50
+Statistics: 50
+Machine Learning: 70
+Signal & Image: 150
+Inverse Problems: 80
+MRI: 70

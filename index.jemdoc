@@ -1,0 +1,44 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+= Sundaresh Ram
+
+~~~
+{}{img_left}{sundar3.png}{alt text}{221}{300}{http://www.umich.edu/~sundarer/}
+
+#{{<section class="card">}}
+#{{<img src="ram.png" alt="Sundaresh Ram" style="float:left" hspace="20" width="250"> }}
+Assistant Professor \n
+[https://med.emory.edu/departments/radiology/index.html Department of Radiology & Imaging Sciences], \n
+[https://bme.gatech.edu/bme/ Wallece H. Coulter Department of Biomedical Engineering], \n
+[https://med.emory.edu/departments/biomedical-informatics/index.html Department of Biomedical Informatics], \n
+[https://med.emory.edu/departments/medicine/index.html Department of Medicine], \n
+[https://www.emory.edu/home/index.html Emory University] & [https://www.gatech.edu/ Georgia Institute of Technology]\n
+
+101 Woodruff Cir, \n
+Woodruff Memorial Research Building, \n
+Suite 308, \n
+Atlanta, GA, 30322 \n
+Phone (office): (734) 615-2281 \n
+Email: *sundaresh.ram AT emory DOT edu* \n
+~~~
+#{{</section>}}
+
+== Welcome to my homepage!
+
+I am an Assistant Professor in the [https://med.emory.edu/departments/radiology/index.html Department of Radiology & Imaging Sciences], and the [https://bme.gatech.edu/bme/ Wallece H. Coulter Department of Biomedical Engineering], with secondary appointments in the [https://med.emory.edu/departments/biomedical-informatics/index.html Department of Biomedical Informatics], and the [https://med.emory.edu/departments/medicine/index.html Department of Medicine] at [https://www.emory.edu/home/index.html Emory University] & [https://www.gatech.edu/ Georgia Institute of Technology], Atlanta, GA, USA. I am a member of the [https://aihealth.emory.edu/ Emory Empathetic AI for Health Institute] at Emory University.
+
+== Research Interests
+
+My research interests include:
+
+- Signal, Image, and Video Processing
+- Computaional Imaging
+- Medical Imaging
+- Inverse Problems
+- Pattern Recognition & Machine Learning
+- Image Analysis & Computer Vision
+- Signal Detection & Estimation Theory
+
+
+My research interests lie in the broad area of image science with applications to various imaging technologies. I am interested in developing new multidimensional signal processing methodologies/tools and applying these tools to a wide range of imaging applications in biology, medicine, consumer electronics, homeland security, and data science. My recent focus has been on problems involving mathematical modeling of machine learning, signal transformation & representations, and information processing.
+#I work on inverse problems in imaging. Specifically, I have been working on topics at the intersection of signal, image & video processing, computer vision, pattern recognition and machine learning. 
+

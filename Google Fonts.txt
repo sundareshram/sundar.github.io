@@ -1,0 +1,44 @@
+
+
+Find this line and below it: 
+<tr valign="top">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+
+<style>
+.mySlides {display:none;}
+</style>
+
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,600,700' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Josefin+Sans:400,600,700,400italic,600italic,700italic' rel='stylesheet' type='text/css'>
+<link rel="icon" href="favicon.ico" type="image/x-icon"/>
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
+
+Add the below 
+
+
+
+
+<div class="w3-content w3-section" style="max-width:500px">
+  <img class="mySlides" src="GT_Mascot.png"  width="120px" height="100px" align="center">
+  <img class="mySlides" src="EU_Mascot.png"  width="10px" height="100px" align="center">
+</div>
+
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}    
+  x[myIndex-1].style.display = "block";  
+  setTimeout(carousel, 2000); // Change image every 2 seconds
+}
+</script>

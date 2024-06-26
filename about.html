@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<style>
+.mySlides {display:none;}
+</style>
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,600,700' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Josefin+Sans:400,600,700,400italic,600italic,700italic' rel='stylesheet' type='text/css'>
+<link rel="icon" href="favicon.ico" type="image/x-icon"/>
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
+<title>Sundaresh Ram &#8201;&mdash;&#8201; About</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="w3-content w3-section" style="max-width:500px">
+  <img class="mySlides" src="GT_Mascot.png"  width="120px" height="100px" align="center">
+  <img class="mySlides" src="EU_Mascot.png"  width="120px" height="100px" align="center">
+</div>
+
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}    
+  x[myIndex-1].style.display = "block";  
+  setTimeout(carousel, 2000); // Change image every 2 seconds
+}
+</script>
+<div class="menu-category">Navigation</div>
+<div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-item"><a href="about.html" class="current">About</a></div>
+<div class="menu-item"><a href="research.html">Research</a></div>
+<div class="menu-item"><a href="publications.html">Publications</a></div>
+<div class="menu-item"><a href="links.html">Links</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Sundaresh Ram &#8201;&mdash;&#8201; About</h1>
+</div>
+<h2>Bio</h2>
+<p>Sundaresh Ram received the B.E. degree in Electrical and Electronics Engineering from <a href="https://www.annauniv.edu/">Anna University</a>, Chennai, India in May 2007 and the M.S. and the Ph.D. degrees in <a href="https://ece.engineering.arizona.edu/">Electrical and Computer Engineering</a> from <a href="http://www.arizona.edu/">The University of Arizona</a>, Tucson, AZ in December 2010 and July 2017, respectively. He was a postdoctoral research fellow in the <a href="https://www.ece.cornell.edu/ece">School of Electrical and Computer Engineering</a> and the <a href="https://www.bme.cornell.edu/bme">School of Biomedical Engineering</a> at <a href="http://www.cornell.edu/">Cornell University</a>, Ithaca, NY from August 2017 to September 2018, and a postdoctoral research fellow in the <a href="https://medicine.umich.edu/dept/radiology">Department of Radiology</a> and the <a href="https://bme.umich.edu/">Department of Biomedical Engineering</a> at <a href="https://umich.edu/">University of Michigan</a>, Ann Arbor, MI from October 2018 to March 2023. He was a research assistant professor in the <a href="https://medicine.umich.edu/dept/radiology">Department of Radiology</a> and the <a href="https://bme.umich.edu/">Department of Biomedical Engineering</a> at <a href="https://umich.edu/">University of Michigan</a>, Ann Arbor, MI, USA between April 2023 and March 2024. He is currently an assistant professor in the <a href="https://med.emory.edu/departments/radiology/index.html">Department of Radiology & Imaging Sciences</a> and the <a href="https://bme.gatech.edu/bme/">Wallace H. Coulter Department of Biomedical Engineering</a> with addition appointments in the <a href="https://med.emory.edu/departments/biomedical-informatics/index.html">Department of Biomedical Informatics</a> and the <a href="https://med.emory.edu/departments/medicine/index.html">Department of Medicine</a> at <a href="https://www.emory.edu/home/index.html">Emory University</a> and <a href="https://www.gatech.edu/">Georgia Institute of Technology</a>, Atlanta, GA, USA.</p>
+<p>Sundaresh has received academic awards, including the Technology Research and Initiative Fund (TRIF) Imaging Fellowship, and the Graduate Tuition and Research Scholarship at The University of Arizona. His research interests include signal<i>image</i>video processing, pattern recognition, machine learning, computational imaging, and inverse problems and applications of these methods in the biological sciences, conventional and medical imaging, and data science. He has developed solutions for multiple applications in advanced signal, image, and video processing, involving various data modalities, such as microscopy, CT, SPECT, MRI, and natural images and video. Research topics include sparsity-based image restoration, image reconstruction, graph theoritic image segmentation, non-rigid image registration, motion estimation, object classification, object detection and tracking, data regularization and optimization, and feature extraction.</p>
+<h2>CV</h2>
+<p>My current CV can be found <a href="Ram_CV.pdf">here</a>.</p>
+<h2>Google Scholar</h2>
+<p>Click <a href="https://scholar.google.com/citations?user=igTNs6EAAAAJ&amp;hl=en">here</a> to visit my Google Scholar profile.</p>
+<h2>PubMed</h2>
+<p>Click <a href="https://pubmed.ncbi.nlm.nih.gov/?term=sundaresh%20ram">here</a> to find my work on PubMed</p>
+<div id="footer">
+<div id="footer-text">
+Page generated 2024-04-12 01:24:13 Eastern Daylight Time, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+(<a href="about.jemdoc">source</a>)
+</div>
+</div>
+</td>
+</tr>
+</table>
+<script type="text/javascript">
+function mouseOver2(locname,imname)
+{
+document.getElementById(locname).src =imname;
+}
+function toggleHide(id)
+{
+    if (document.getElementById)
+    {
+        obj = document.getElementById(id);
+        if (obj.style.display == "none")
+        {
+          obj.style.display = "";
+        }
+        else
+        {
+          obj.style.display = "none";
+        }
+    }
+}
+</script>
+</body>
+</html>

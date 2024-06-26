@@ -1,0 +1,20 @@
+# jemdoc: menu{MENU}{about.html}, showsource
+== Sundaresh Ram --- About
+
+== Bio
+
+Sundaresh Ram received the B.E. degree in Electrical and Electronics Engineering from [https://www.annauniv.edu/ Anna University], Chennai, India in May 2007 and the M.S. and the Ph.D. degrees in [https://ece.engineering.arizona.edu/ Electrical and Computer Engineering] from [http://www.arizona.edu/ The University of Arizona], Tucson, AZ in December 2010 and July 2017, respectively. He was a postdoctoral research fellow in the [https://www.ece.cornell.edu/ece School of Electrical and Computer Engineering] and the [https://www.bme.cornell.edu/bme School of Biomedical Engineering] at [http://www.cornell.edu/ Cornell University], Ithaca, NY from August 2017 to September 2018, and a postdoctoral research fellow in the [https://medicine.umich.edu/dept/radiology Department of Radiology] and the [https://bme.umich.edu/ Department of Biomedical Engineering] at [https://umich.edu/ University of Michigan], Ann Arbor, MI from October 2018 to March 2023. He was a research assistant professor in the [https://medicine.umich.edu/dept/radiology Department of Radiology] and the [https://bme.umich.edu/ Department of Biomedical Engineering] at [https://umich.edu/ University of Michigan], Ann Arbor, MI, USA between April 2023 and March 2024. He is currently an assistant professor in the [https://med.emory.edu/departments/radiology/index.html Department of Radiology \& Imaging Sciences] and the [https://bme.gatech.edu/bme/ Wallace H. Coulter Department of Biomedical Engineering] with addition appointments in the [https://med.emory.edu/departments/biomedical-informatics/index.html Department of Biomedical Informatics] and the [https://med.emory.edu/departments/medicine/index.html Department of Medicine] at [https://www.emory.edu/home/index.html Emory University] and [https://www.gatech.edu/ Georgia Institute of Technology], Atlanta, GA, USA.
+
+Sundaresh has received academic awards, including the Technology Research and Initiative Fund (TRIF) Imaging Fellowship, and the Graduate Tuition and Research Scholarship at The University of Arizona. His research interests include signal/image/video processing, pattern recognition, machine learning, computational imaging, and inverse problems and applications of these methods in the biological sciences, conventional and medical imaging, and data science. He has developed solutions for multiple applications in advanced signal, image, and video processing, involving various data modalities, such as microscopy, CT, SPECT, MRI, and natural images and video. Research topics include sparsity-based image restoration, image reconstruction, graph theoritic image segmentation, non-rigid image registration, motion estimation, object classification, object detection and tracking, data regularization and optimization, and feature extraction.
+
+== CV
+
+My current CV can be found [Ram_CV.pdf here].
+
+== Google Scholar
+
+Click [https://scholar.google.com/citations?user=igTNs6EAAAAJ&hl=en here] to visit my Google Scholar profile.
+
+== PubMed
+
+Click [https://pubmed.ncbi.nlm.nih.gov/?term=sundaresh%20ram here] to find my work on PubMed.

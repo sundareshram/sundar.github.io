@@ -1,0 +1,200 @@
+# jemdoc: menu{MENU}{publications.html}, showsource
+= Sundaresh Ram --- Publications
+
+~~~
+*Copyright Notice:* This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
+~~~
+
+== Patents
+
+- *Sundaresh Ram* and Craig J. Galban, {{<font color="crimson">"Dictionary Learning-Based Tissue Assessment and Abnormality Detection,"</font>}} /U.S. Patent 10109-19014P/, filed May 17, 2022.
+
+== Journal Papers
+
+- *Sundaresh Ram*, Jeffrey J. Roriguez, and Giovanni Bosco, {{<font color="crimson">"Segmentation and Detection of Fluorescent 3-D Spots,"</font>}} /Cytometry: Part A/, vol. 81A, no. 3, pp. 198-212, Feb 2012. [http://onlinelibrary.wiley.com/doi/10.1002/cyto.a.22017/abstract (pdf)]
+
+- *Sundaresh Ram*, and Jeffrey J. Rodriguez, {{<font color="crimson">"Size-Invariant Detection of Cell Nuclei in Microscopy Images,"</font>}} /IEEE Transactions on Medical Imaging/, vol. 35, no. 7, pp.1753-1764, Jul 2016. [http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7404018 (pdf)]
+
+- Jonathan P. Vande Geest, *Sundaresh Ram*, Stephen J. howerton, Forest Danford, Urs Utzinger, and Jeffrey J. Rodriguez, {{<font color="crimson">"Racioethnic Diffrences in The Biomechanical Environment of The Lamine Cribrosa,"</font>}} /Investigative Ophthalmalogy & Visual Science/, vol. 57, no. 12, pp. 3555, May 2016. [https://iovs.arvojournals.org/article.aspx?articleid=2557519 (pdf)]
+
+- *Sundaresh Ram*, Forest Danford, Stephen Howerton, Jeffrey J. Rodriguez, Urs Utzinger, and Jonathan Vande Geest, {{<font color="crimson">"Three Dimensional Segmentation of the Anterior Lamina Cribrosa from Second Harmonic Imaging Microscopy,"</font>}} /IEEE Transactions on Biomedical Engineering/, vol. 65, no. 7, pp. 1617-1629, Jul 2018.  [http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7862784 (pdf)]
+
+- Ding Ding, *Sundaresh Ram*, and Jeffrey J. Rodriguez, {{<font color="crimson">"Perpectually Aware Image Inpainting,"</font>}} /Pattern Recognition/, vol. 83, pp. 174-184, Nov 2018. [https://www.sciencedirect.com/science/article/abs/pii/S0031320318301997 (pdf)]
+
+- *Sundaresh Ram*, Ding Ding, and Jeffrey J. Rodriguez, {{<font color="crimson">"Image Inpainting using Nonlocal Texture Measure and Nonlinear Filtering,"</font>}} /IEEE Transactions on Image Processing/, vol. 28, no. 4, pp. 1705-1719, Apr 2019. [http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=8531678 (pdf)]
+
+- Reza Behkam, Hirut G. Kollech, Anirban Jana, Amy Hill, Forest Danford, Stephen Howerton, *Sundaresh Ram*, Jeffrey J. Rodriguez, Christopher A. Girkin, and Jonathan P. Vande Geest, {{<font color="crimson">"Racioethnic Differences in the Biomechanical Response of the Lamina Cribrosa"</font>}} /Acta Biomaterialia/, vol. 88, pp. 131-140, Apr 2019.[https://www.sciencedirect.com/science/article/abs/pii/S1742706119301412?via%3Dihub (pdf)] 
+
+- Xin Gao, *Sundaresh Ram*, and Jeffrey J. Rodriguez, {{<font color="crimson">"A Post-Processing Scheme For The Performance Improvement of Vehicle Detection in Wide-Area Aerial Imagery,"</font>}} /Signal Image and Video Processing/, vol. 14, no. 3, pp. 625-633, Apr 2020. [https://link.springer.com/article/10.1007/s11760-019-01592-4 (pdf)]
+
+- Xin Gao, *Sundaresh Ram*, and Jeffrey J. Rodriguez, {{<font color="crimson">"Correction to: A Post-Processing Scheme For The Performance Improvement of Vehicle Detection in Wide-Area Aerial Imagery,"</font>}} /Signal Image and Video Processing/, vol. 14, no. 3, pp. 625-633, Apr 2020. [https://link.springer.com/article/10.1007/s11760-020-01667-7 (pdf)]
+
+- Guang-Shing Cheng, Katherine E. Selwa, Charles Hatt, *Sundaresh Ram*, Aleksa B. Fortuna, Margaret Guerriero, Ben Himelhoch, Daniel McCaree, Timothy Hoffman, Joseph Brisson, Brian D. Ross, Ryan Nazareno, Kiernan Bloye, Timothy Johnson, Jonas Mattsson, Dharshan Vummidi, Ella E. Kazerooni, Vibha N. Lama, Stefanie Galban, Michael Boeckh, Gregory A. Yanik, and Craig J. Galban,, {{<font color="crimson">"Multicenter Evaluation of Parametric Response Mapping as an Indicator of Bronchiolitis Obliterans Syndrome After Hematopoietic Stem Cell Transplantation,"</font>}} /American Journal of Transplantation/, 00, pp. 1-8, Apr 2020. [https://doi.org/10.1111/ajt.15814 (pdf)]
+
+- Xin Gao, Jeno Szep, Pratik Satam, Salim Hariri, *Sundaresh Ram*, and Jeffrey J. Rodriguez, {{<font color="crimson">"Spatio-Temporal
+Processing for Automatic Vehicle Detection in Wide-Area Aerial Video,"</font>}} /IEEE Access/, vol. 8, pp. 199562-199572, Oct 2020. [https://ieeexplore.ieee.org/document/9237918 (pdf)]
+
+- Rachel K. Surowiec, *Sundaresh Ram*, Djaudat Idiyatullin, Robert Goulet, Craig J. Galban, and Kenneth M. Kozloff, {{<font color="crimson">"In-Vivo Quantitative Imaging Biomarkers of Bone Quality and Mineral Density Using Multi-Band-SWIFT Magnetic Resonance Imaging,"</font>}} /Bone/, vol. 143, pp. 115615, Feb 2021. [https://www.sciencedirect.com/science/article/abs/pii/S8756328220303951?via%3Dihub (pdf)]
+
+- *Sundaresh Ram*, Ben A. Hoff, Alexander J. Bell, Stephanie Galban, Aleksa B. Fortuna, Oliver Weinheimer, Mark O. Weilputz, Terry E. Robinson, Beverley Newman, Darshan R. Vummidi, Ella E. Kazerooni, Meilan K. Han, Charles R. Hatt, and Craig J. Galban, {{<font color="crimson">"Improved Detection of Air Trapping on Expiratory Computed
+Tomography Using Deep Learning,"</font>}} /PLOS ONE/, vol. 16, no. 3, pp. e0248902, Mar 2021. [https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248902 (pdf)]
+
+- *Sundaresh Ram*, Sree Ramya S. P. Malladi, and Jeffrey J. Rodriguez, {{<font color="crimson">"Image Denoising Using Superpixel-Based PCA,"</font>}} /IEEE Transactions on Multimedia/, vol. 23, pp. 2297-2309, July 2021. [https://ieeexplore.ieee.org/document/9141402 (pdf)]
+
+- *Sundaresh Ram* and Meilan K. Han, {{<font color="crimson">"X-Ray Dark Field Imaging: A Tool For Early Diagnosis of Emphysema in Chronic Obstructive Pulmonary Disease?,"</font>}} /Lancet Digital Health/, vol. 3, no. 11, pp. e691-e692, Nov 2021. [https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00230-2/fulltext (pdf)]
+
+- Xin Gao, *Sundaresh Ram*, Rohit C. Philip, Jeffrey J. Rodriguez, Jeno Szep, Sicong C. Shao, Pratik Satam, Jesus Pacheco, and Salim Hariri, {{<font color="crimson">"Selecting Post-Processing Schemes for Accurate Detection of Small Objects in Low-Resolution Wide-Area Aerial Imagery,"</font>}} /Remote Sensing/, vol. 14, no. 2, pp. 255, Jan 2022. [https://www.mdpi.com/2072-4292/14/2/255 (pdf)]
+
+- *Sundaresh Ram*, Stijn E. Verleden, Alexander J. Bell, Ben A. Hoff, Wassim W. Labaki, Susan Murray, Bart M. Vanaudenaerde, Robin Vos, Geert M. Verleden, Ella A. Kazerooni, Stefanie Galban, Charles R. Hatt, Meilan K. Han, Vibha Lama, and Craig J. Galban, {{<font color="crimson">"Quantitative CT Correlates With Local Inflammation in Lung of patients With Subtypes of Chronic Lung Allograft Dysfunction,"</font>}} /Cells/, vol. 11, no. 4, pp. 699, Feb 2022. [https://www.mdpi.com/2073-4409/11/4/699 (pdf)]
+
+- Jennifer M. Wang, *Sundaresh Ram*, Wassim W. Labaki, Meilan K. Han, and Craig J. Galban, {{<font color="crimson">"CT-Based Commercial Software Applications: Improving Patient Care Through Accurate COPD Subtyping,"</font>}} /International Journal of COPD/, vol. 17, pp. 619-630, Apr 2022. [https://www.dovepress.com/ct-based-commercial-software-applications-improving-patient-care-throu-peer-reviewed-fulltext-article-COPD (pdf)]
+
+- Xin Gao, *Sundaresh Ram*, and Jeffrey J. Rodriguez, {{<font color="crimson">"Exploiting Bilinear Interpolation and Predictive Particle Swarm Optimization for Tilt Correction on Vehicle License Plates,"</font>}} /International Journal of Image Mining/, (in press).
+
+- Jennifer M. Wang, Wassim W. Labiki, Susan Murray, Fernando J. Martinez, Jeffrey L. Curtis, *Sundaresh Ram*, Alexander J. Bell, Craig J. Galban, MeiLan K. Han, and Charles R. Hatt, {{<font color="crimson">"Machine Learning for Screening of Mild and Moderate COPD Patients at Risk of FEV1 Decline: Results from COPDGene and SPIROMICS,"</font>}} /Frontiers in Physiology/, (in press).
+
+#=== Submitted Manuscripts
+
+- Alexander J. Bell, *Sundaresh Ram*, Wassim W. Labaki, Susan Murray, Ella A. Kazerooni, Stefanie Galban, David A. Lynch, Stephen M. Humphries, Fernando J. Martinez, Charles R. Hatt, Meilan K. Han, and Craig J. Galban, {{<font color="crimson">"Transition of Healthy Lung to Small Airways Disease Captured by CT: What this means for early detection of Emphysema,"</font>}} /Journal of Thoracic Imaging/, (under review).
+
+- Sahezeel Awadia, *Sundaresh Ram*, Merna Sitto, Wenbin Ji, Yajing Liu, Raheema Damani, Anupama Pal, Dipankar Ray, Theodore Lawrence, Craig J. Galban, Steven Cappell, Alnawaz Rehemtulla, {{<font color="crimson">"FADD promotes G1 to S cell cycle transition by inhibiting APC/C-Cdh1 activity,"</font>}} /Nature Cell Biology/, (under review).
+
+- Hayley Barnes, *Sundaresh Ram*, Brett Elicker, Miranda Siemienowicz, Kirk D. Jones, Jadranka Stojanovska, Charles R. Hatt, Glen Westall, Harold R. Collard, Meng Law, Craig J. Galban, and Ian Glaspole, {{<font color="crimson">"Human versus Machine: Predicting Hypersensitivity Pneumonitis Phenotypes using CT Analysis,"</font>}} /CHEST/, (under review).
+
+- *Sundaresh Ram*, and Jeffrey J. Rodriguez, {{<font color="crimson">"Robust Segmentation of Cell Nuclei in 3-D Microscopy Images,"</font>}} /IEEE Access/, (under review).
+
+- *Sundaresh Ram*, Wenfei Tang, Alexander J. Bell, Cara Spencer, Alexander Buschhaus, Charles R. Hatt, Marina P. diMagliano, Alnawaz Rehemtulla, Jeffrey J. Rodriguez, Stefanie Galban, and Craig J. Galban, {{<font color="crimson">"Lung Cancer Lesion Detection in Histopathology Images Using Graph-Based Sparse PCA Network,"</font>}}/IEEE Journal of Biomedical Health and Informatics/, (under review).
+
+#=== In Preparation 
+
+#- Manoj K. Sharma, Ravi Pal, Renu Vig, *Sundaresh Ram*, and Ravindra Khaiwal, {{<font color="crimson">"Reduction of Ambulance Siren Noise Pollution for a Patient Using Feedback Active Noise Control with a Virtual Sensing Technique,"</font>}} /Acoustics Australia/, (under review).
+
+
+#- Sree Ramya S. P. Malladi, *Sundaresh Ram*, and Jeffrey J. Rodriguez, {{<font color="crimson">"Evaluation of Under-Segmentation Metrics Used for Superpixel Segmentation Quality Assessment,"</font>}} /Computer Vision and Image Understanding/, (under review).
+
+#- Sundaresh Ram,Madhav Kumar, Alexander J. Bell, Ravi Pal, Arno Vanstapel, Adriana Dubbeldam, Birgit Weynand, Eric K. Verbeken, Robin Vos, Arne P. Neyrinck, Dragos M. Vasilescu, Stefanie Galban, Laurens J. Ceulemans, Anna E. Frick, Dirk E. Van Raemdonck, Johny Verschakelen, Bart M. Vanaudenaerde, Geert M. Verleden, Vibha E. Lama, Stijn E. Verleden, and Craig J. Galban, {{<font color="crimson">"CT-based Machine Learning for Donor Lung Screening Prior to Transplantation,"</font>}} /Journal of Heart and Lung Transplantation/, (in preparation).
+
+#- *Sundaresh Ram*, Alexander J. Bell, Stephen M. Humphries, David A. Lynch, Craig J. Galban, and Charles R. Hatt, {{<font color="crimson">"Lung Lobe Segmentation With Automated Quality Assurance Using Deep Convolutional Neural Networks,"</font>}} /IEEE Transactions on Medical Imaging/, (in preparation).
+
+#- *Sundaresh Ram*, Madhav Kumar, Charles R. Hatt, Alexander J. Bell, Oliver H. Wienheimer, Mark O. Wielputz, Terry E. Robinson, Sephanie Galban, Dharshan R. Vummidi, and Craig J. Galban, {{<font color="crimson">"Multiview Task-Driven Dictionary Learning for Image Classification,"</font>}} /IEEE Transactions on Medical Imaging/, (in preparation).
+
+#- *Sundaresh Ram*, Jianbo Shao, Yang Gao, Jeffrey J Rodriguez, and Heddwen Brooks, {{<font color="crimson">"Detection and Segmentation of Primary Cilia in Microscopy Images,"</font>}} /IEEE Transactions on Medical Imaging/, (in preparation).
+
+#- Sree Ramya S. P. Malladi, *Sundaresh Ram*, and Jeffrey J. Rodriguez, {{<font color="crimson">"Comparison of Region-Based Metrics Used for the #Evaluation of Image Segmentation Algorithms,"</font>}} /Computer Vision and Image Understanding/, (in preparation).
+
+#- Ding Ding, *Sundaresh Ram*, and Jeffrey J. Rodriguez, {{<font color="crimson">"Multiresolution Exemplar-Based Image Inpainting,"</font>}} /IEEE #Transactions on Computational Imaging/, (in preparation).
+
+#- *Sundaresh Ram*, Jianbo Shao, Yang Gao, Jeffrey J Rodriguez, and Heddwen Brooks, {{<font color="crimson">"Classification of Primary Cilia in #Microscopy Images,"</font>}} /Journal of Microscopy/, (in preparation).
+
+#- *Sundaresh Ram*, Jianbo Shao, Yang Gao, Jeffrey J Rodriguez, and Heddwen Brooks, {{<font color="crimson">"Automated Length Calculation of Primary #Cilia in Microscopy Images,"</font>}} /Pattern Recognition/, (in preparation).
+
+#- Rohit C. Philip, *Sundaresh Ram*, Douglas W. Todd, and Jeffrey J. Rodriguez, {{<font color="crimson">"Algorithms For Small Bio-Object Detection: #A Quantitative Comparison,"</font>}} /IEEE Transactions on Biomedical Engineering/, (in preparation).
+
+== Conference Proceedings Papers
+
+- *Sundaresh Ram*, Stephen M. Humphries, David A. Lynch, Craig J. Galban, and Charles R. Hatt, {{<font color="crimson">"Lung Lobe Segmentation With Automated Quality Assurance Using Deep Convolutional Neural Networks,"</font>}} /in IEEE International Symposium for Biomedical Imaging (ISBI)/, Iowa City, IA, April 2020. [https://ieeexplore.ieee.org/abstract/document/9153455 (pdf)]
+
+- *Sundaresh Ram*, Vicky T. Nguyen, Kirsten H. Limesand, and Jeffrey J. Rodriguez, {{<font color="crimson">"Combined Cell Nuclei
+Detection and Segmentation in Microscopy Images Using 3D Convolutional Networks,"</font>}} /in IEEE Southwest Symposium on Image Analysis and Interpretation (SSIAI)/, Santa Fe, NM, March 2020. [https://ieeexplore.ieee.org/abstract/document/9094614 (pdf)]
+
+- Charles R. Hatt, *Sundaresh Ram*, and Craig J. Galban, {{<font color="crimson">"A Convolutional Neural Network Approach to Automated Lung Bounding Box Estimation From Computed Tomography Scans,"</font>}} /IEEE Data Science Workshop (DSW ’19)/,Minneapolis, MN, June 2019. [https://ieeexplore.ieee.org/document/8755594 (pdf)]
+
+- *Sundaresh Ram*, and Mert Sabuncu, {{<font color="crimson">"Conditional Entropy as Supervised Primitive Segmentation Loss
+Function,"</font>}} /in Neuronex Conference/, Ithaca, NY, May 2018. [https://neuronex.cornell.edu/2018-2019-neuronex-conference-speakers/ (pdf)]
+
+- *Sundaresh Ram*, Mohammed S. Majdi, Jeffrey J. Rodriguez, Yang Gao, and Heddwen L. Brooks, {{<font color="crimson">"Classification of Primary Cilia in Microscopy Images Using Convolutional Neural Random Forests,"</font>}} /in IEEE Southwest Symposium on Image Analysis and Interpretation (SSIAI)/, Las Vegas, NV, April 2018. [http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=8470320 (pdf)]
+
+- Mohammed S. Majdi, *Sundaresh Ram*, Jonathan T. Gill, and Jeffrey J. Rodriguez, {{<font color="crimson">"Drive-Net: Convolutional Network for Driver Distraction Detection,"</font>}} /in IEEE Southwest Symposium on Image Analysis and Interpretation (SSIAI)/, Las Vegas, NV, April 2018. [http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=8470309 (pdf)]
+
+- Sree Ramya S. P. Malladi, *Sundaresh Ram*, and Jeffrey J. Rodriguez, {{<font color="crimson">"A Ground-Truth Fusion Method for Image Segmentation Evaluation,"</font>}} /in IEEE Southwest Symposium on Image Analysis and Interpretation (SSIAI)/, Las Vegas, NV, April 2018. [http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=8470317 (pdf)]
+
+- *Sundaresh Ram*, and Jeffrey J. Rodriguez, {{<font color="crimson">"Vehicle Detection in Wide Area Images Using Multiscale Structure Enhancement and Symmetry,"</font>}} /in IEEE International Conference on Image Processing (ICIP)/, Phoenix AZ, September 2016, [http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7533074/ (pdf)]
+
+- *Sundaresh Ram*, and Jeffrey J. Rodriguez, {{<font color="crimson">"Image Super-Resolution Using Graph Regularized Block Sparse Representation,"</font>}} /in IEEE Southwest Symposium on Image Analysis and Interpretation (SSIAI)/, Santa Fe, NM, April 2016. [http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7459177 (pdf)]
+
+- Xin Gao, *Sundaresh Ram*, and Jeffrey J. Rodriguez, {{<font color="crimson">"A Performance Comparison of Automatic Detection Schemes in Wide-Area Aerial Imagery,"</font>}} /in IEEE Southwest Symposium on Image Analysis and Interpretation (SSIAI)/, Santa Fe, NM, April 2016. [http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7459191 (pdf)]
+
+- *Sundaresh Ram*, and Jeffrey J. Rodriguez, {{<font color="crimson">"Single Image Super-Resolution Using Dictionary-Based Local Regression,"</font>}} /in IEEE Southwest Symposium on Image Analysis and Interpretation (SSIAI)/, San Diego, CA, April 2014. [http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6806044 (pdf)]
+
+- Sree Ramya S. P. Malladi, *Sundaresh Ram*, and Jeffrey J. Rodriguez, {{<font color="crimson">"Superpixels Using Morphology for Rock Image Segmentation,"</font>}} /in IEEE Southwest Symposium on Image Analysis and Interpretation (SSIAI)/, San Diego, CA, April 2014. [http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6806050 (pdf)]
+
+- Rohit C. Philip, *Sundaresh Ram*, Xin Gao, and Jeffrey J. Rodriguez, {{<font color="crimson">"A Comparison of Tracking Algorithm Performance for Objects in Wide Area Imagery,"</font>}} /in IEEE Southwest Symposium on Image Analysis and Interpretation (SSIAI)/, San Diego, CA, April 2014. [http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6806041 (pdf)]
+
+- *Sundaresh Ram*, and Jeffrey J. Rodriguez, {{<font color="crimson">"Random Walker Watersheds: A New Image Segmentation Approach,"</font>}} /in IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)/, Vancouver, Canada, May 2013. [http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6637896 (pdf)]
+
+- *Sundaresh Ram*, and Jeffrey J. Rodriguez, {{<font color="crimson">"Symmetry-Based Detection of Nuclei In Microscopy Images,"</font>}} /in IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)/, Vancouver, Canada, May 2013. [http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6637826 (pdf)]
+
+- *Sundaresh Ram*, and Jeffrey J. Rodriguez, {{<font color="crimson">"Size-Invariant Cell Nucleus Segmentation in 3-D Microscopy,"</font>}} /in IEEE Southwest Symposium on Image Analysis and Interpretation (SSIAI)/, Santa Fe, NM, April 2012. [http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6202447 (pdf)]
+
+- Sean Whitsitt, Armando Barreto, *Sundaresh Ram*, Hussian Al-Helal, Maribel Hudson, Diyang Chu, Jonathan Sprinkle, and Kamel Didan, {{<font color="crimson">"Citizen Science in Support of Vegetation Indiex and Phenology Research,"</font>}} /in Phenology Research and Observations of Southwest Ecosystems Symposium (PROSE)/, Oct 2010.
+
+- *Sundaresh Ram*, Jeffrey J. Rodriguez, and Giovanni Bosco, {{<font color="crimson">"Segmentation and Classification of 3-D Spots in FISH Images,"</font>}} /in IEEE Southwest Symposium on Image Analysis and Interpretation (SSIAI)/, Austin, TX, May 2010. [http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=5483909 (pdf)]
+
+- Ajay S. Nath, *Sundaresh Ram*, Balaji V., and K. Balachandar, {{<font color="crimson">"Multiple 3-D Objects Detection and Recognition Using Independent Component Analysis,"</font>}} / in International Conference on Signal Processing, 
+Communications and Networking (ICSCN)/, Chennai, India, Jan 2008. [http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=4447224 (pdf)]
+
+- *Sundaresh Ram*, and S. Jayendran, {{<font color="crimson">"Removal of Camera Shake From a Single Photograp,"</font>}} /in Indian Conference (INDICON)/, Bangalore, India, Sept 2007. [INDICON_Published.pdf (pdf)]
+
+== Conference Abstracts
+
+- *Sundaresh Ram*, Ravi Pal, Madhav Kumar, Alexander J. Bell, Jennifer M. Wang, Wassim W. Labaki, Susan Murray, Ella A. Kazerooni, Stefanie Galban, Meilan K. Han, Charles R. Hatt, Craig J Galban, {{<font color="crimson">"Dictionary Learning to Predict COPD Progression Using Topological PRM,"</font>}} /In C29. More Than Meets The Eye: Advanced Lung Imaging, American Thoracic Society International Conference (ATS ’23)/, May 2023. Accepted.
+
+- *Sundaresh Ram*, Bingzhao Shan, Alexander J. Bell, Ravi Pal, Jennifer M. Wang, Wassim W. Labaki, Susan Murray, Ella A. Kazerooni, Stefanie Galban, Charles R. Hatt, Meilan K. Han, Craig J Galban, {{<font color="crimson">"Feature-Based PRM for Robust Disease Classification in COPD,"</font>}} /In D97. Impact of COPD Across The Lifespan, American Thoracic Society International Conference (ATS ’23)/, May 2023. Accepted.
+
+- Jennifer M. Wang, Alexander J. Bell, *Sundaresh Ram*, Wassim W. Labaki, Benjamin A. Hoff, Susan Murray, Ella Kazerooni, Stefanie Galban, Charles R. Hatt, MeiLan K. Han, Craig J. Galban, {{<font color="crimson">"Topologic Parametric Response Mapping Identifies Emphysema Progression Subtypes in COPDGene,"</font>}} /In D97. Impact of COPD Across The Lifespan, American Thoracic Society International Conference (ATS ’23)/, May 2023. Accepted.
+
+- Alexander J. Bell, Yixuan Peng, Brody Foy, Alec Xu, *Sundaresh Ram*, Wassim W. Labaki, MeiLan K. Han, Craig J. Galban, {{<font color="crimson">"An Analytical Strategy to Assess Individual Upper Airway Remodeling With Downstream Parenchymal Disease in CT Imaging: A COPDGene Study,"</font>}} /In A17. Tell Me What You See: New Studies in Lung Imaging, American Thoracic Society International Conference (ATS ’23)/, May 2023. Accepted.
+
+- Alexander J. Bell, *Sundaresh Ram*, Wassim W. Labaki, Susan Murray, Ella A. Kazerooni, Stefanie Galban, Fernando J. Martinez, Charles R. Hatt, Evgeny M. Mirkes, Andrei Zinovyev, Alexander N. Gorban, MeiLan K. Han, Craig J. Galban, {{<font color="crimson">"Clinical Trajectory Analysis With Longitudinal Validation in COPD: A COPDGene Study,"</font>}} /In D97. Impact of COPD Across The Lifespan, American Thoracic Society International Conference (ATS ’23)/, May 2023. Accepted.
+
+- Sarah M. Muller, *Sundaresh Ram*, Katie J. Bayfield, Mark O. Wielpütz, Terry E. Robinson, Brain J. Bartholmai, Paul D. Robinson, Craig J. Galban, Oliver Weinheimer, {{<font color="crimson">"Deep Learning-Based Air Trapping Quantification in Children With Cystic Fibrosis Using Paired Inspiratory-Expiratory Ultra-Low Dose CT,"</font>}} /In European Congress of Radiology (ECR ’22)/, July 2022. [https://www.myesti.org/project/page/7/ (pdf)]
+
+- Sarah M. Muller, *Sundaresh Ram*, Katie J. Bayfield, J.H. Reuter, S. Gestewitz, Li Yu, Mark O. Wielpütz, Hans-Ulrich Kauczor, Claus P. Heussel, Terry E. Robinson, Brain J. Bartholmai, Charles R. Hatt, Paul D. Robinson, Craig J. Galban, Oliver Weinheimer, {{<font color="crimson">"Deep Learning-Based Air Trapping Quantification Analyzing Structure-Function Relationships in Children With Cystic Fibrosis Using Paired Inspiratory-Expiratory Ultra-Low Dose CT,"</font>}} /In 28th Annual Scientific Meeting of the European Society of Thoracic Imaging (ESTI ’22)/, June 2022. [https://www.myesti.org/content-esti/uploads/ESTI-22_OAB-Syllabus_1306.pdf (pdf)]
+
+- Jennifer M. Wang, Wassim W. Labaki, Susan Murray, Fernando J. Martinez, Jeffery L. Curtis, *Sundaresh Ram*, Alexander J. Bell, Craig J. Galban, Meilan K. Han, Charles R. Hatt, {{<font color="crimson">"Using Decision Tree Models to Predict FEV1 Decline in COPDGene,"</font>}} /In A012 A22. Imaging And Molecular Biomarkers In COPD, American Thoracic Society International Conference (ATS ’22)/, May 2022. [https://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2022.205.1_MeetingAbstracts.A1097 (pdf)]
+
+- Alexander J. Bell, *Sundaresh Ram*, Wassim Labaki, Susan Murray, Ella A. Kazerooni, Stefanie Galban, Fernando J. Martinez, Charles R. Hatt, Evgeny Mirkes, Andrei Zinovyev, Alexander N. Gorban, MeiLan K. Han, and Craig J. Galban, {{<font color="crimson">"Elastic Principal Graphs For Clinical Trajectory Analysis in COPD: A COPDGene Study,"</font>}} /In Deep Phenotyping of Obstructive Diseases For Precision Medicine, European Respiratory Society
+International Congress (ERS ’21)/, Sept 2021. [https://erj.ersjournals.com/content/58/suppl_65/OA1284 (pdf)]
+
+- Katie J. Bayfield, *Sundaresh Ram*, Oliver Weinheimer, R. Fitzpatrick, Charles R. Hatt, B. Kennedy, A. Blaxland, N. Caplain, Mark O. Wielputz, L. Yu, Terry E. Robinson, Brian J. Bartholmai, D. A. Fitzgerald, H. Selvadurai, Craig J. Galban, and Paul D. Robinson, {{<font color="crimson">"Deep Learning Improves the Detection of Ultra-Low-Dose CT Scan Parameters in Children with Cystic Fibrosis,"</font>}} /In TP125 Structure And Function In The Pediatric Lung, American
+Thoracic Society International Conference (ATS ’21)/, May 2021. [https://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2021.203.1_MeetingAbstracts.A4628 (pdf)]
+
+- Hayley Barnes, Brett Elicker, Miranda Siemienowicz, Kirk D. Jones, *Sundaresh Ram*, Jadranka Stojanovska, Charles R. Hatt, Glen Westall, Harold R. Collard, Meng Law, Craig J. Galban, and Ian Glaspole, {{<font color="crimson">"Human versus Machine: Predicting Hypersensitivity Pneumonitis Phenotypes Using CT Analysis,"</font>}} /In TP027 Diffuse Parenchymal Lung Disease: Patient Characteristics And Outcomes, American Thoracic Society International Conference (ATS ’21)/, May 2021. [https://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2021.203.1_MeetingAbstracts.A1888 (pdf)]
+
+- Alexander J. Bell, *Sundaresh Ram*, Wassim W. Labaki, Susan Murray, Ella A. Kazerooni, Stefanie Galban, David A. Lynch, Stephen M. Humphries, Fernando J. Martinez, Charles R. Hatt, Meilan K. Han, and Craig J. Galban, {{<font color="crimson">"Topological Parametric Response Mapping (PRM) Analysis for Spatially Localized Parenchymal Characterization in COPD: A COPDGene Study,"</font>}} /In A012 New Insights Into Structure And Function In COPD, American Thoracic Society International Conference (ATS ’21)/, May 2021. [https://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2021.203.1_MeetingAbstracts.A1047 (pdf)]
+
+- *Sundaresh Ram*, Wenfei Tang, Alexander J. Bell, Cara Spencer, Alexander Buschhaus, Charles R. Hatt, Marina P. diMagliano, Stefanie Galban, and Craig J. Galban, {{<font color="crimson">"Detection of cancer lesions in histopathological lung images using a sparse PCA network,"</font>}} /AACR Virtual Special Conf. on Artificial Intelligence, Diagnosis, and Imaging/, Jan 2021. [https://aacrjournals.org/clincancerres/article/27/5_Supplement/PO-086/32835/Abstract-PO-086-Detection-of-cancer-lesions-in (pdf)]
+
+- Nina Steele, Kristena Y. Abdelmalak, Sarah F. Ferris, Jennifer M Lee, Carlos Espinoza, Yaqing Zhang, *Sundaresh Ram*, Craig J. Galban, Nithya Ramnath, Timothy L. Frankel, Marina P. diMagliano, Stefanie Galban, {{<font color="crimson">"Oncogenic Kras-mediated regulation of the tumor microenvironment in lung cancer,"</font>}} /Proceedings: AACR Annual Meeting 2020/, Apr 2020. [https://aacrjournals.org/cancerres/article/80/16_Supplement/3855/642929/Abstract-3855-Oncogenic-Kras-mediated-regulation (pdf)]
+
+- Megi Hoxha, *Sundaresh Ram*, Aleksa B. Fortuna, Aaron Taylor, and Craig J. Galban, {{<font color="crimson">"Automated Image Analysis of Mouse Oocyte Organelles in Germline Cysts,"</font>}} /2020 New England Science Symposium (NESS)/, April 2020.
+
+
+- Rachel Surowiec, *Sundaresh Ram*, Djaudat Idiyatullin, Robert Goulet, Craig Galban, and Kenneth Kozloff, {{<font color="crimson">"MB-SWIFT MRI can Quantify Bone Mineral Density while Concurrently Characterizing Material-level and Biochemical Changes in Bone In Vivo,"</font>}} /in 2019 Radiological Society of North America (RSNA)/, Chicago, IL, Dec 2019. [http://archive.rsna.org/2019/MagneticResonanceImaging.pdf (pdf)]
+
+- Rachel Surowiec, *Sundaresh Ram*, Djaudat Idiyatullin, Robert Goulet, Craig Galban, and Kenneth Kozloff, {{<font color="crimson">"MB-SWIFT MRI can Quantify Bone Mineral Density while Concurrently Characterizing Material-level and Biochemical Changes in Bone In Vivo,"</font>}} /in American Society for Bone and Mineral Research (ASBMR)/, Seattle, WA, Sept 2019. [https://www.asbmr.org/ItineraryBuilder/PresentationDetail.aspx?pid=10211e93-7e15-4072-b5e1-a83c73836ce0&ptag=CategoryDetail&cid=f878ed64-e85e-4b41-9dd8-5e29c7b4c4aa (pdf)]
+
+- Megi Hoxha, *Sundaresh Ram*, Aleksa B. Fortuna, Aaron Taylor, and Craig J. Galban, {{<font color="crimson">"Automated Image Analysis of Mouse Oocyte Organelles in Germline Cysts,"</font>}} /2019 Annual Biomedical Research Conference for Minority Students (ABRCMS)/, May 2019.[https://abrcms.org/images/2019/ABRCMS-Program-2019-WEB_VERSION.pdf (pdf)]
+
+- *Sundaresh Ram*, Laria Shih-chuen Tzen Reynolds, Aleksa B. Fortuna, Stefanie Galban, Dharshan R. Vummidi, Ella A. Kazerooni, Meilan K. Han, Craig J. Galban, and Charles R. Hatt, {{<font color="crimson">"Identification of Expiratory Air Trapping in Thoracic Computed Tomography Using Deep Learning,"</font>}} /2019 ATS International Conference/, May 2019. [https://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2019.199.1_MeetingAbstracts.A2565 (pdf)]
+
+- *Sundaresh Ram*, Jonathan P. Vande Geest, Stephen Howerton, Forest Danford, Urs Utzinger, and Jeffrey J Rodriguez, {{<font color="crimson">"Racioethnic Differences in The Biomechanical Environment of The Lamina Cribrosa,"</font>}} /ARVO 2016 Annual Meeting/, ARVO abstract 3555, May 2016.[http://www.arvo.org/webs/am2016/sectionpdf/GL/Session_339.pdf (pdf)]
+
+== Others
+
+- Wenfei Tang, *Sundaresh Ram*, Alexander J. Bell, Cara Spencer, Alexander Buschhaus, Charles R. Hatt, Marina P. diMagliano, Jeffrey J. Rodriguez, Stefanie Galban, and Craig J. Galban, {{<font color="crimson">"Lesion Detection on Microscopy Images of Murine H&E Stained Lung Sections Using Sparse PCA Network,"</font>}} /Michigan Annual Engineering Research Symposium/, University of Michigan, February 2021. [https://ers.engin.umich.edu/wp-content/uploads/sites/264/2021/02/2021-Schedule-Book.pdf (pdf)]
+
+- Madhav Kumar, *Sundaresh Ram*, Aleksa B. Fortuna, Craig J. Galban, Charles R. Hatt, and Stijn E. Verleden, {{<font color="crimson">"Segmentation and Classification of Explanted CT Lungs Using Mathematical Morphology and Dictionary Learning,"</font>}} /Michigan Undergraduate Research Synposium/, University of Michigan, Apr 2019. [https://percheducation.files.wordpress.com/2019/04/abstract_booklet_online.pdf (pdf)]
+
+- Laria S. Reynolds, *Sundaresh Ram*, Aleksa B. Fortuna, Oliver Weinheimer, Mark O. Wielputz, Terry E. Robinson, Charles R. Hatt, and Craig J. Galban, {{<font color="crimson">"Deep Learning for Air Trapping Detection,,"</font>}} /Michigan Undergraduate Research Synposium/, University of Michigan, Apr 2019. [https://percheducation.files.wordpress.com/2019/04/abstract_booklet_online.pdf (pdf)]
+
+- *Sundaresh Ram*, and Jeffrey J. Rodriguez, {{<font color="crimson">"Vehicle Detection In Aerial Imagery,"</font>}} /ECE GSA Research Symposium/, Electrical & Computer Engineering, University of Arizona, Apr 2017.
+
+- Sree Ramya S. P. Malladi, *Sundaresh Ram*, and Jeffrey J. Rodriguez, {{<font color="crimson">"Superpixel Segmentation,"</font>}} /ECE GSA Research Symposium/, Electrical & Computer Engineering, University of Arizona, Apr 2017.
+
+- Ding Ding, *Sundaresh Ram*, and Jeffrey J. Rodriguez, {{<font color="crimson">"Perpectually Aware Image Inpainting,"</font>}} /ECE GSA Research Symposium/, Electrical & Computer Engineering, University of Arizona, Apr 2017.
+
+- Katelyn axman, Addison Kaufmann, *Sundaresh Ram*, and Jonathan P. Vande Geest, {{<font color="crimson">"Verifying Normality of Ocular Tissue Through Development Of A Semi-Automated Optic Nerve Axon Counting Method,"</font>}} /Ingenium 2017 Undergraduate Research Report/, Swanson School of Engineering, University of Pittsburgh, Apr 2017. [https://issuu.com/pittswanson/docs/ingenium_2017/33 (pdf)]
+
+
+

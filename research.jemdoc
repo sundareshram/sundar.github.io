@@ -1,0 +1,80 @@
+# jemdoc: menu{MENU}{research.html}, showsource
+= Sundaresh Ram --- Research
+
+~~~
+{}{img_left}{wordle2.PNG}{alt text}{700}{400}{}
+~~~
+
+{{<center>}}
+
+== Research Themes
+
+{{</center>}}
+~~~
+{}{raw}
+<div class="row">
+<div class="column">
+<div class="img-hover-zoom">
+<div class="polaroid">
+<a href="research_SP.html"><img src="SP_Logo.jpg" width="250px" height="150px" alt="Another Image zoom-on-hover effect" /></a></p>
+<div class="container">
+<h3>Signal <br/>Processing</h3>
+</div>
+</div>
+</div>
+</div>
+<div class="column">
+<div class="img-hover-zoom">
+<div class="polaroid">
+<a href="research_CI.html"><img src="CI_Logo3.jpg" width="250px" height="150px" alt="Another Image zoom-on-hover effect" /></a></p>
+<div class="container">
+<h3>Computational <br/>Imaging</h3>
+</div>
+</div>
+</div>
+</div>
+<div class="column">
+<div class="img-hover-zoom">
+<div class="polaroid">
+<a href="research_MI.html"><img src="MI_Logo2.jpg" width="250px" height="150px" alt="Another Image zoom-on-hover effect" /></a></p>
+<div class="container">
+<h3>Medical <br/>Imaging</h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="column">
+<div class="img-hover-zoom">
+<div class="polaroid">
+<a href="research_CI.html"><img src="ML_Logo.jpg" width="250px" height="150px" alt="Another Image zoom-on-hover effect" /></a></p>
+<div class="container">
+<h3>Machine <br/>Learning</h3>
+</div>
+</div>
+</div>
+</div>
+<div class="column">
+<div class="img-hover-zoom">
+<div class="polaroid">
+<a href="research_CV.html"><img src="CV_Logo2.jpg" width="250px" height="150px" alt="Another Image zoom-on-hover effect" /></a></p>
+<div class="container">
+<h3>Computer Vision & <br/>Image Analysis</h3>
+</div>
+</div>
+</div>
+</div>
+<div class="column">
+<div class="img-hover-zoom">
+<div class="polaroid">
+<a href="research_CI.html"><img src="CI_Logo.png" width="250px" height="150px" alt="Another Image zoom-on-hover effect" /></a></p>
+<div class="container">
+<h3>Computational <br/>Imaging</h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+~~~
+  
