@@ -1,0 +1,30 @@
+# jemdoc: menu{MENU}{research.html}, showsource
+= Sundaresh Ram --- Research
+
+{{<center>}}
+
+= Signal Processing
+
+{{</center>}}
+
+{{<section class="card">}}
+
+=== Sparsity-Based Image Restoration
+~~~
+{}{img_left}{SISR.gif}{alt text}{150}{120}{}
+#[img{150}{120}{alt text} SISR.gif]
+Image restoration is a typical ill-posed linear inverse problem, where the aim is to recover or reconstruct an estimate of a high-quality image from a noisy, blurred, and downsampled observation, produced by an operator. Depending on the operator, image restoration can be formulated as a denoising, deblurring, compressed sensing, or super-resolution problem. In this research work, we employ signal sparse representations as a statistical image modeling technique to solve the image restoration problem. We exploit the concept that a signal is block sparse in a given basis-i.e., the non-zero elements occur in clusters of varying sizes-and propose an efficient framework for learning sparse representation modeling of natural images.
+~~~
+
+{{</section>}}
+
+{{<section class="card">}}
+
+=== Image and Video Inpainting
+~~~
+{}{img_left}{inpainting.gif}{alt text}{150}{100}{}
+#[img{150}{100}{alt text} inpainting.gif]
+Image inpainting refers to the process of restoring missing or damaged areas in an image. It is an ill-posed inverse problem, which has no unique well-defined solution. It is therefore necessary to introduce image priors to solve the problem. In this research work, we build priors from image sparse representations modeling and dictionary learning under the assumption that pixels within the known and unknown part of the image share the same statistical properties, and geometrial structures. We solve the inpainting problem using exemplar-based inpainting approach that incorporates the learnt sparse priors. [http://www2.engr.arizona.edu/~sail/Current_Research/ding+sundaresh/index.html *more*]
+~~~
+
+{{</section>}}
